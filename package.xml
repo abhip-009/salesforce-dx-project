@@ -4,6 +4,8 @@
         <members>Abhijit_Property__c</members>
         <members>HarnessAccount__c</members>
         <name>CustomObject</name>
+    </types>
+    <types> 
         <members>Campaign_Feedback_Flow</members>
         <name>Flow</name>
     </types>
