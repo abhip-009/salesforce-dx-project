@@ -4,6 +4,8 @@
         <members>Abhijit_Property__c</members>
         <members>HarnessAccount__c</members>
         <name>CustomObject</name>
+        <members>Campaign_Feedback_Flow</members>
+        <name>Flow</name>
     </types>
     <version>60.0</version>
 </Package>
