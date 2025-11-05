@@ -1,0 +1,13 @@
+{
+  "orgName": "My Scratch",
+  "edition": "Developer",
+  "features": ["Communities"],
+  "settings": {
+    "flowSettings": {
+      "enableLightningRuntimeEnabled": true
+    },
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    }
+  }
+}
