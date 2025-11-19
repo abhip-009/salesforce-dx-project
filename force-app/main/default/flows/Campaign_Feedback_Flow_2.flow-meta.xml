@@ -30,7 +30,7 @@
     </processMetadataValues>
     <processType>Flow</processType>
     <screens>
-        <description>This screen will be what recipients will fill out to give feedback.</description>
+        <description>This screen will be filled by recipients to give feedback.</description>
         <name>Campaign_Feedback_Screen</name>
         <label>Campaign Feedback Screen</label>
         <locationX>0</locationX>
