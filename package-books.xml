@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+
+    <!-- Custom Object -->
+    <types>
+        <members>Book__c</members>
+        <name>CustomObject</name>
+    </types>
+
+    <!-- Custom Field -->
+    <types>
+        <members>Book__c.Price__c</members>
+        <name>CustomField</name>
+    </types>
+
+    <!-- Apex Classes -->
+    <types>
+        <members>MyHelloWorld</members>
+        <members>HelloWorldTestClass</members>
+        <name>ApexClass</name>
+    </types>
+
+    <!-- Apex Trigger -->
+    <types>
+        <members>HelloWorldTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
+
+    <version>59.0</version>
+</Package>
+
